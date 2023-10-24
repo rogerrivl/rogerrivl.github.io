@@ -6,59 +6,65 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: Unites States Air Force
+      url: "#"
+      location: Lackland AFB, Texas
+      # company overview
+      #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: Client System Supervisor
+        start: October 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Led a team overseeing account creation, STIGS compliance, token issuance, and user troubleshooting.
+          - Managed user accounts, ensuring security compliance and maintaining an up-to-date inventory.
+          - Implemented and enforced STIGS to ensure secure configurations and compliance with cybersecurity standards across all systems and devices within the organization.
+          - Conducted troubleshooting and resolution of users' computer problems, applying technical expertise to ensure minimal disruptions and maintain operational efficiency.
+      # - designation: Junior Software Engineer
+      #   start: Oct 2022
+      #   end: Oct 2022
+      #   responsibilities:
+      #     - Implement and test xyz feature for abc tool.
+      #     - Support client for abc tool.
+      #     - Learn k,d,w technology for xyz.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  - company:
+      name: United States Air Force
+      url: "#"
+      location: Ramstein AB, Germany
+      # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    positions:
+      - designation: Software Engineer
+        start: May 2021
+        end: Oct 2022
+        responsibilities:
+          - Developed on-demand software for the intelligence community, providing crucial support for data extraction tools, an advanced inventory dashboard, and a suite of dynamic mobile applications.
+          - Oversaw the entire lifecycle of "The Terminal - Ramstein AB" mobile app, revolutionizing communication and streamlining vital information for airmen stationed at Ramstein Air Base, Germany.
+          - Developed "Dorm Inspections," a mobile application that optimized dormitory inspections, achieving a 65 % reduction in inspection time.
+          - Proficient in a range of cutting-edge technologies, including JavaScript, React, React Native, MongoDB, Python, and  Swift, contributing to versatile and innovative software solutions.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - company:
+      name: United States Air Force
+      url: "#"
+      location: Ramstein AB, Germany
+      #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    positions:
+      - designation: System Administrator
+        start: April 2020
+        end: May 2021
+        responsibilities:
+          - Oversaw server performance, ensuring functionality and prompt troubleshooting to minimize downtime.
+          - Managed network operations, including a PXE boot server setup, SCCM management for efficient software deployment, and meticulous administration to ensure secure and seamless network operations.
+      - designation: Client System Technician
+        start: January 2017
+        end: April 2020
+        responsibilities:
+          - Conducted diagnostic tests and resolved hardware and software issues, ensuring operational functionality, and maximizing user satisfaction.
+          - Supported end-users via phone, delivering technical assistance and expert troubleshooting for diverse computer-related problems. Additionally, efficiently managed user accounts and reported issues using systematic ticketing systems, adhering to security policies, and ensuring a seamless resolution process.
