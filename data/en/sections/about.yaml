@@ -19,11 +19,7 @@ section:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Professionally accomplished IT expert with a proven track record in the U.S. Air Force. Skilled in managing
-critical aspects of information technology, from security compliance and web/mobile application
-development to network administration. Recognized for spearheading impactful projects and ensuring
-operational functionality while adhering to established security protocols. Seeking a role in Software
-Development or Cloud Engineer to further utilize expertise and experience."
+summary: "Professionally accomplished IT expert with seven years of experience in the U.S. Air Force. Skilled in managing critical aspects of information technology, from security compliance and web/mobile application development to network administration. Recognized for spearheading impactful projects and ensuring operational functionality while adhering to established security protocols. Seeking a role in Software Development or Cloud Engineering to further utilize my expertise and experience."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -61,7 +57,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
   - title: "My Resume"
-    url: "files/Roger Riverol_Showcase.pdf"
+    url: "files/Roger_Showcase.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -81,6 +77,11 @@ badges:
     name: AWS Certified Cloud Practitioner
     url: "https://www.credly.com/badges/0f661ffb-ef67-4668-9fce-8c13053046bb/public_url"
     badge: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+  
+  - type: certification
+    name: AWS Developer Associate
+    url: "https://www.credly.com/badges/acf2ca73-98c0-4b16-be2d-2345e823188c/public_url"
+    badge: "https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
 
   
   # - type: soft-skill-indicator

@@ -17,16 +17,16 @@ experiences:
       # company overview
       #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
     positions:
-      - designation: Client System Supervisor
+      - designation: System Administrator Supervisor
         start: October 2022
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Led a team overseeing account creation, STIGS compliance, token issuance, and user troubleshooting.
-          - Managed user accounts, ensuring security compliance and maintaining an up-to-date inventory.
-          - Implemented and enforced STIGS to ensure secure configurations and compliance with cybersecurity standards across all systems and devices within the organization.
-          - Conducted troubleshooting and resolution of users' computer problems, applying technical expertise to ensure minimal disruptions and maintain operational efficiency.
+          - Lead a team of 12 members overseeing the life cycle of account creation, Security Technical Implementation Guides (STIGs) compliance, token issuance, and user troubleshooting for customers within the Intelligence Community.
+          - Manage and maintain PXE boot servers for streamlined computer imaging processes, reducing deployment time by 80%.
+          - Implement and enforce STIGS to ensure secure configurations and compliance with cybersecurity standards across 10,000 systems and devices within Lackland AFB.
+          - Conduct troubleshooting and resolve users' computer problems, applying technical expertise to ensure minimal disruptions and maintain operational efficiency.
       # - designation: Junior Software Engineer
       #   start: Oct 2022
       #   end: Oct 2022
@@ -46,10 +46,9 @@ experiences:
         end: Oct 2022
         responsibilities:
           - Developed on-demand software for the intelligence community, providing crucial support for data extraction tools, an advanced inventory dashboard, and a suite of dynamic mobile applications.
-          - Oversaw the entire lifecycle of "The Terminal - Ramstein AB" mobile app, revolutionizing communication and streamlining vital information for airmen stationed at Ramstein Air Base, Germany.
-          - Developed "Dorm Inspections," a mobile application that optimized dormitory inspections, achieving a 65 % reduction in inspection time.
-          - Proficient in a range of cutting-edge technologies, including JavaScript, React, React Native, MongoDB, Python, and  Swift, contributing to versatile and innovative software solutions.
-
+          - Oversaw the entire lifecycle of "The Terminal - Ramstein AB" mobile app, revolutionizing communication and streamlining vital information for 54,000 service members stationed in the Kaiserslautern Military Community (KMC).
+          - Developed "Dorm Inspections," a mobile application that optimized dormitory inspections, achieving a 65 % reduction in inspection time. Provided technical expertise and guidance to junior developers, fostering a culture of continuous learning and improvement within the team.
+          - Collaborated with a team of six developers, driving the delivery of high-quality software solutions that consistently surpassed user expectations and met stringent deadlines. Implemented Agile software development methodologies to  ensure code quality, scalability, and maintainability, contributing to the team’s overall success.
   - company:
       name: United States Air Force
       url: "#"

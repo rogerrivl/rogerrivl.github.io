@@ -2,176 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rogerrivl.github.io/notes/go/basic/introduction/</loc>
+    <loc>http://localhost:1313/notes/go/basic/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/go/basic/_index.bn/</loc>
+    <loc>http://localhost:1313/notes/go/basic/_index.bn/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/go/advanced/_index.bn/</loc>
+    <loc>http://localhost:1313/notes/go/basic/introduction/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/go/basic/types/</loc>
+    <loc>http://localhost:1313/notes/go/advanced/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/go/basic/flow-control/</loc>
+    <loc>http://localhost:1313/notes/go/basic/types/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/go/advanced/files/</loc>
+    <loc>http://localhost:1313/notes/go/advanced/_index.bn/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/bash/basic/</loc>
+    <loc>http://localhost:1313/notes/go/basic/flow-control/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/notes/go/advanced/files/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/bash/basic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/categories/</loc>
+    <loc>http://localhost:1313/tags/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/posts/markdown-sample/</loc>
+    <loc>http://localhost:1313/categories/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/posts/category/sub-category/_index.bn/</loc>
+    <loc>http://localhost:1313/tags/content-organization/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/introduction/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/posts/category/_index.bn/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/tags/%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B/</loc>
+    <loc>http://localhost:1313/posts/markdown-sample/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/posts/_index.bn/</loc>
+    <loc>http://localhost:1313/tags/multi-lingual/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/tags/%E0%A6%AC%E0%A6%B9%E0%A7%81%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BF%E0%A6%95/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/tags/%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/</loc>
+    <loc>http://localhost:1313/posts/category/sub-category/rich-content/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/categories/%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/posts/introduction/</loc>
+    <loc>http://localhost:1313/posts/shortcodes/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/tags/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8/</loc>
+    <loc>http://localhost:1313/posts/category/sub-category/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/posts/shortcodes/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/posts/category/sub-category/rich-content/</loc>
+    <loc>http://localhost:1313/posts/category/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/_index.bn/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/go/_index.bn/</loc>
+    <loc>http://localhost:1313/notes/bash/</loc>
   </url><url>
-    <loc>https://rogerrivl.github.io/search/</loc>
+    <loc>http://localhost:1313/notes/go/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/go/_index.bn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rogerrivl.github.io/notes/bash/_index.bn/</loc>
+    <loc>http://localhost:1313/posts/category/sub-category/_index.bn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/category/_index.bn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/_index.bn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/_index.bn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/bash/_index.bn/</loc>
   </url>
 </urlset>
