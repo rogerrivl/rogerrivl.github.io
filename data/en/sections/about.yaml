@@ -57,7 +57,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
   - title: "My Resume"
-    url: "files/Roger Riverol_Showcase.pdf"
+    url: "files/Roger_Riverol_Showcase.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -77,6 +77,11 @@ badges:
     name: AWS Certified Cloud Practitioner
     url: "https://www.credly.com/badges/0f661ffb-ef67-4668-9fce-8c13053046bb/public_url"
     badge: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+  
+  - type: certification
+    name: AWS Certified Cloud Practitioner
+    url: "https://www.credly.com/badges/acf2ca73-98c0-4b16-be2d-2345e823188c/public_url"
+    badge: "https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
 
   
   # - type: soft-skill-indicator
